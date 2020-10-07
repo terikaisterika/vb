@@ -59,13 +59,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseClass.cs" />
     <Compile Include="pageTests\BankiDeposityTests.cs" />
     <Compile Include="pageTests\HomePageTests.cs" />
     <Compile Include="pageTests\EOSAGO.cs" />
     <Compile Include="pages\PBankiDeposity.cs" />
     <Compile Include="pages\PageHome.cs" />
-    <Compile Include="OuickTest.cs" />
+    <Compile Include="Programs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
